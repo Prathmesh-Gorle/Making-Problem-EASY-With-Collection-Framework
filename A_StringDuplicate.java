@@ -1,7 +1,7 @@
 import java.util.*;
 //Remove the string if user accidently giving same string again..
 
-public class StringDuplicate {
+public class A_StringDuplicate {
     public static void main(String[] args) {
         ArrayList<String> al = new ArrayList<String>();
         Scanner sc=new Scanner(System.in);
